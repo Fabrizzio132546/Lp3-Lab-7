@@ -1,0 +1,12 @@
+2
+Andre
+1537.0
+3
+Julio
+1200.0
+4
+Fabrizzio
+1589.23
+12
+Lizardo
+2670.0
